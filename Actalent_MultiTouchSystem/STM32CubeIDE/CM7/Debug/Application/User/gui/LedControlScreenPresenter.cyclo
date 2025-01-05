@@ -1,0 +1,5 @@
+../../CM7/../../CM7/TouchGFX/gui/include/gui/ledcontrolscreen_screen/LedControlScreenPresenter.hpp:28:13:LedControlScreenPresenter::~LedControlScreenPresenter()	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/ledcontrolscreen_screen/LedControlScreenPresenter.cpp:10:6:virtual void LedControlScreenPresenter::activate()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/ledcontrolscreen_screen/LedControlScreenPresenter.hpp:28:13:virtual LedControlScreenPresenter::~LedControlScreenPresenter()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/ledcontrolscreen_screen/LedControlScreenPresenter.hpp:28:13:virtual void* LedControlScreenPresenter::_ZThn4_N25LedControlScreenPresenterD1Ev()	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/ledcontrolscreen_screen/LedControlScreenPresenter.cpp:4:1:LedControlScreenPresenter::LedControlScreenPresenter(LedControlScreenView&)	1

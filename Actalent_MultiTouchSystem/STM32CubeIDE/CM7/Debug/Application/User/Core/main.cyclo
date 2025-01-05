@@ -1,0 +1,11 @@
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:114:19:RTC_Write	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:118:19:RTC_Read	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:155:9:BCD_to_Decimal	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:136:6:Get_Time	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:164:9:Decimal_to_BCD	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:122:6:Set_Time	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:324:6:SystemClock_Config	4
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:173:5:main	32
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:928:13:TouchGFX_Task	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:1018:6:HAL_TIM_PeriodElapsedCallback	2
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/Core/Src/main.c:1035:6:Error_Handler	1

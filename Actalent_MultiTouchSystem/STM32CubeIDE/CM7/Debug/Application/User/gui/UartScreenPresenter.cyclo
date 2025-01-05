@@ -1,0 +1,5 @@
+../../CM7/../../CM7/TouchGFX/gui/include/gui/uartscreen_screen/UartScreenPresenter.hpp:28:13:UartScreenPresenter::~UartScreenPresenter()	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenPresenter.cpp:10:6:virtual void UartScreenPresenter::activate()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/uartscreen_screen/UartScreenPresenter.hpp:28:13:virtual UartScreenPresenter::~UartScreenPresenter()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/uartscreen_screen/UartScreenPresenter.hpp:28:13:virtual void* UartScreenPresenter::_ZThn4_N19UartScreenPresenterD1Ev()	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenPresenter.cpp:4:1:UartScreenPresenter::UartScreenPresenter(UartScreenView&)	1

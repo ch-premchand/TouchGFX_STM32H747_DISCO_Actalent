@@ -1,0 +1,5 @@
+../../CM7/../../CM7/TouchGFX/gui/include/gui/screen10_screen/Screen10Presenter.hpp:28:13:Screen10Presenter::~Screen10Presenter()	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/screen10_screen/Screen10Presenter.cpp:10:6:virtual void Screen10Presenter::activate()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/screen10_screen/Screen10Presenter.hpp:28:13:virtual Screen10Presenter::~Screen10Presenter()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/screen10_screen/Screen10Presenter.hpp:28:13:virtual void* Screen10Presenter::_ZThn4_N17Screen10PresenterD1Ev()	1
+D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/screen10_screen/Screen10Presenter.cpp:4:1:Screen10Presenter::Screen10Presenter(Screen10View&)	1
