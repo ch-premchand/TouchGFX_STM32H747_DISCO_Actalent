@@ -1,4 +1,4 @@
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jutils.c:124:1:jdiv_round_up	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jutils.c:133:1:jround_up	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jutils.c:177:1:jcopy_sample_rows	2
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jutils.c:211:1:jcopy_block_row	1
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jutils.c:124:1:jdiv_round_up	1
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jutils.c:133:1:jround_up	1
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jutils.c:177:1:jcopy_sample_rows	2
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jutils.c:211:1:jcopy_block_row	1

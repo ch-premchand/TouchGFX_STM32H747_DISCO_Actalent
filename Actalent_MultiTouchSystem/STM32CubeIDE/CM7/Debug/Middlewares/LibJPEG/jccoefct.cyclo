@@ -1,6 +1,6 @@
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:73:1:start_iMCU_row	3
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:101:1:start_pass_coef	7
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:346:1:compress_output	8
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:249:1:compress_first_pass	11
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:144:1:compress_data	12
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:410:1:jinit_c_coef_controller	4
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:73:1:start_iMCU_row	3
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:101:1:start_pass_coef	7
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:346:1:compress_output	8
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:249:1:compress_first_pass	11
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:144:1:compress_data	12
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jccoefct.c:410:1:jinit_c_coef_controller	4

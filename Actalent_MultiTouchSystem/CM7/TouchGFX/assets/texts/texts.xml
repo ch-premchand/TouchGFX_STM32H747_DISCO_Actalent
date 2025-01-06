@@ -15,10 +15,33 @@
         <Translation Language="GB">123</Translation>
       </Text>
     </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_JHWZ" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">SEND</Translation>
+      </Text>
+      <Text Id="__SingleUse_LT90" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_OXEZ" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">EXIT</Translation>
+      </Text>
+      <Text Id="__SingleUse_HP8L" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q8PZ" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">UART Screen</Translation>
+      </Text>
+      <Text Id="__SingleUse_0TIP" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">Message : </Translation>
+      </Text>
+      <Text Id="__SingleUse_3MHR" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+    </TextGroup>
   </Texts>
   <Typographies>
-    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
-    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Default" Font="verdanab.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="verdanab.ttf" Size="30" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
     <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
     <Typography Id="Display" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacters="!”&quot;#*%&amp;()'$+-@_, .:;?/~±×÷•º`´{}©£€^®¥_=[]¡¢|\¿&gt;&lt;" WildcardCharacterRanges="a-z,A-Z,0-9" />
     <Typography Id="Mode" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />

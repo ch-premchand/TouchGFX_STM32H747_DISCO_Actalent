@@ -26,6 +26,7 @@ public:
     virtual void deactivate();
 
     virtual ~UartScreenPresenter() {}
+    virtual void sendData(char *data);
 
 private:
     UartScreenPresenter();

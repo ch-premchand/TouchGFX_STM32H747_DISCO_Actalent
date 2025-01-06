@@ -14,6 +14,7 @@ public:
     }
 
     void tick();
+    void sendData (char *data);
 protected:
     ModelListener* modelListener;
 };

@@ -1,4 +1,4 @@
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcomapi.c:29:1:jpeg_abort	3
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcomapi.c:69:1:jpeg_destroy	2
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcomapi.c:86:1:jpeg_alloc_quant_table	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcomapi.c:98:1:jpeg_alloc_huff_table	1
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcomapi.c:29:1:jpeg_abort	3
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcomapi.c:69:1:jpeg_destroy	2
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcomapi.c:86:1:jpeg_alloc_quant_table	1
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcomapi.c:98:1:jpeg_alloc_huff_table	1

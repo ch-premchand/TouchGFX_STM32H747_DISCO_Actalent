@@ -1,8 +1,15 @@
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:13:6:virtual void UartScreenView::tearDownScreen()	1
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	1
+D:/dev_akash/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:21:6:virtual void UartScreenView::tearDownScreen()	1
+D:/dev_akash/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:26:6:virtual void UartScreenView::NameClicked()	1
+D:/dev_akash/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:39:6:virtual void UartScreenView::exitClicked()	1
+D:/dev_akash/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:51:6:virtual void UartScreenView::OkClicked()	1
+D:/dev_akash/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:68:6:virtual void UartScreenView::SendClicked()	2
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	1
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/uartscreen_screen/UartScreenView.hpp:11:13:UartScreenView::~UartScreenView()	1
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/uartscreen_screen/UartScreenView.hpp:11:13:virtual UartScreenView::~UartScreenView()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:3:1:UartScreenView::UartScreenView()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:8:6:virtual void UartScreenView::setupScreen()	1
+D:/dev_akash/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:8:1:UartScreenView::UartScreenView()	1
+D:/dev_akash/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:86:1:cpp)	1
+D:/dev_akash/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/uartscreen_screen/UartScreenView.cpp:16:6:virtual void UartScreenView::setupScreen()	1

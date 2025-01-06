@@ -1,4 +1,4 @@
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcdctmgr.c:65:1:forward_DCT	6
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcdctmgr.c:128:1:forward_DCT_float	3
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcdctmgr.c:180:1:start_pass_fdctmgr	56
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcdctmgr.c:464:1:jinit_forward_dct	1
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcdctmgr.c:65:1:forward_DCT	6
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcdctmgr.c:128:1:forward_DCT_float	3
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcdctmgr.c:180:1:start_pass_fdctmgr	56
+D:/dev_akash/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jcdctmgr.c:464:1:jinit_forward_dct	1

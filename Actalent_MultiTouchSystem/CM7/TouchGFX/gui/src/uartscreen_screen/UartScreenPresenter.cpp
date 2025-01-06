@@ -16,3 +16,8 @@ void UartScreenPresenter::deactivate()
 {
 
 }
+
+void UartScreenPresenter::sendData (char *data)
+{
+	model->sendData (data);
+}
