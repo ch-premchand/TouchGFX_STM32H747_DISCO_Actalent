@@ -253,6 +253,7 @@ Error_Handler();
   /* USER CODE END 2 */
   (void)BSP_I2C4_Init();
   //BSP_I2C4_IsReady(DS1307_ADDR, 3);
+	/*
   Set_Time(12, 34, 56);  // Set time to 12:34:56
   uint8_t hours, minutes, seconds;
   char UART_BUFF[40];  // Buffer for UART data
@@ -267,6 +268,7 @@ Error_Handler();
 	  HAL_UART_Transmit(&huart1, (uint8_t *)UART_BUFF, strlen(UART_BUFF), HAL_MAX_DELAY);
 	  HAL_Delay(1000);
   }
+*/
   /* Init scheduler */
   osKernelInitialize();
 
