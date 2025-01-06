@@ -1,5 +1,5 @@
 #include <gui/uartscreen_screen/UartScreenView.hpp>
-
+#include <cstdio>
 #ifndef SIMULATOR
 #include "stdio.h"
 #include <cstring>
