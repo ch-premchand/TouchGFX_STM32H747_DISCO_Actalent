@@ -38,3 +38,5 @@ dkms.conf
 
 Actalent_MultiTouchSystem/CM7/TouchGFX/build/*
 Actalent_MultiTouchSystem/CM7/TouchGFX/generated/*
+Actalent_MultiTouchSystem/STM32CubeIDE/CM7/Debug/*
+Actalent_MultiTouchSystem/STM32CubeIDE/CM4/Debug/*
