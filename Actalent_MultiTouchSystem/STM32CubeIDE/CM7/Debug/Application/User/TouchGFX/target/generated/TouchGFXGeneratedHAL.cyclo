@@ -17,6 +17,7 @@
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp:1025:18:virtual void touchgfx::HAL::taskDelay(uint16_t)	2
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp:1052:22:virtual uint16_t touchgfx::HAL::getTFTCurrentLine()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/hal/HAL.hpp:1063:21:virtual touchgfx::DMAType touchgfx::HAL::getDMAType()	1
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp:61:34:virtual touchgfx::HAL::RenderingMethod touchgfx::AbstractPainter::getRenderingMethod() const	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp:78:18:virtual bool touchgfx::AbstractPainter::setup(const touchgfx::Rect&) const	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/canvas/AbstractPainter.hpp:90:18:virtual void touchgfx::AbstractPainter::tearDown() const	1
@@ -44,6 +45,7 @@ D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM
 ../../../CM7/TouchGFX/target/generated/TouchGFXGeneratedHAL.hpp:30:7:TouchGFXGeneratedHAL::~TouchGFXGeneratedHAL()	1
 ../../../CM7/TouchGFX/target/generated/DedicatedBufferVideoController.hpp:153:18:void DedicatedBufferController<no_streams, width, height, stride, output_format>::setVideoData(touchgfx::VideoController::Handle, touchgfx::VideoDataReader&) [with long unsigned int no_streams = 1; long unsigned int width = 800; long unsigned int height = 480; long unsigned int stride = 2400; touchgfx::Bitmap::BitmapFormat output_format = touchgfx::Bitmap::RGB888]	1
 ../../../CM7/TouchGFX/target/generated/DedicatedBufferVideoController.hpp:373:18:void DedicatedBufferController<no_streams, width, height, stride, output_format>::setVideoFrameRateCompensation(bool) [with long unsigned int no_streams = 1; long unsigned int width = 800; long unsigned int height = 480; long unsigned int stride = 2400; touchgfx::Bitmap::BitmapFormat output_format = touchgfx::Bitmap::RGB888]	1
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	1
 ../../../CM7/TouchGFX/target/generated/TouchGFXGeneratedHAL.hpp:30:7:virtual TouchGFXGeneratedHAL::~TouchGFXGeneratedHAL()	1
 ../../../CM7/TouchGFX/target/generated/DedicatedBufferVideoController.hpp:49:7:virtual DedicatedBufferController<1, 800, 480, 2400, touchgfx::Bitmap::RGB888>::~DedicatedBufferController()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/canvas/CWRVectorRenderer.hpp:197:11:virtual touchgfx::CWRVectorRenderer::CanvasWidgetProxy::~CanvasWidgetProxy()	1

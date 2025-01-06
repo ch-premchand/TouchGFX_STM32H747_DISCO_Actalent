@@ -1,8 +1,16 @@
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
-D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:13:6:virtual void UPIScreenView::tearDownScreen()	1
-../../CM7/../../CM7/TouchGFX/gui/include/gui/upiscreen_screen/UPIScreenView.hpp:11:13:UPIScreenView::~UPIScreenView()	1
-../../CM7/../../CM7/TouchGFX/gui/include/gui/upiscreen_screen/UPIScreenView.hpp:11:13:virtual UPIScreenView::~UPIScreenView()	1
-D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:3:1:UPIScreenView::UPIScreenView()	1
-D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:8:6:virtual void UPIScreenView::setupScreen()	1
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:17:6:virtual void UPIScreenView::tearDownScreen()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:22:6:virtual void UPIScreenView::UpiClicked()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:33:6:virtual void UPIScreenView::AmountClicked()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:44:6:virtual void UPIScreenView::ExitClicked()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:54:6:virtual void UPIScreenView::GenerateClicked()	3
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:78:6:virtual void UPIScreenView::OkClicked()	3
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/upiscreen_screen/UPIScreenView.hpp:12:13:UPIScreenView::~UPIScreenView()	1
+../../CM7/../../CM7/TouchGFX/gui/include/gui/upiscreen_screen/UPIScreenView.hpp:12:13:virtual UPIScreenView::~UPIScreenView()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:4:1:UPIScreenView::UPIScreenView()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:96:1:cpp)	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenView.cpp:12:6:virtual void UPIScreenView::setupScreen()	1

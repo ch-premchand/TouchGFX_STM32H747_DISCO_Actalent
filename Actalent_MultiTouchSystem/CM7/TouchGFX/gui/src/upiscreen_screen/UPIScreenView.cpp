@@ -1,6 +1,6 @@
 #include <gui/upiscreen_screen/UPIScreenView.hpp>
 #include <touchgfx/Utils.hpp>
-
+#include <cstdio>
 UPIScreenView::UPIScreenView()
 {
 	keyboard.setPosition(80,16,380,300);
@@ -66,7 +66,7 @@ void UPIScreenView::GenerateClicked(){
 		i++;
 	}while (textAreaAmountBuffer[i]!=0);
 
-	wsprintf(res_buff, "upi://pay?pa=%s&am=%s&cu=INR", upibuf, amtbuf);
+	sprintf(res_buff, "upi://pay?pa=%s&am=%s&cu=INR", upibuf, amtbuf);
 
 	 //touchgfx_printf(res_buff);
 	//qrCode.convertStringToQRCode("upi://pay?pa=868912222@axl&am=100&cu=INR");

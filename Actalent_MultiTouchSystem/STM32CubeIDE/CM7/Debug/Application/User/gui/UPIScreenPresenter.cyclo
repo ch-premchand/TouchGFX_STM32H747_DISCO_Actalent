@@ -1,5 +1,8 @@
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/upiscreen_screen/UPIScreenPresenter.hpp:28:13:UPIScreenPresenter::~UPIScreenPresenter()	1
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:touchgfx::TypedText::~TypedText()	1
 D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenPresenter.cpp:10:6:virtual void UPIScreenPresenter::activate()	1
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/upiscreen_screen/UPIScreenPresenter.hpp:28:13:virtual UPIScreenPresenter::~UPIScreenPresenter()	1
+../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/TypedText.hpp:65:13:virtual touchgfx::TypedText::~TypedText()	1
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/upiscreen_screen/UPIScreenPresenter.hpp:28:13:virtual void* UPIScreenPresenter::_ZThn4_N18UPIScreenPresenterD1Ev()	1
 D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenPresenter.cpp:4:1:UPIScreenPresenter::UPIScreenPresenter(UPIScreenView&)	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/upiscreen_screen/UPIScreenPresenter.cpp:18:1:cpp)	1
