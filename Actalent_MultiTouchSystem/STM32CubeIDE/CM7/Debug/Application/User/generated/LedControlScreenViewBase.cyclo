@@ -16,10 +16,10 @@
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:touchgfx::View<LedControlScreenPresenter>::~View()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/generated/gui_generated/src/ledcontrolscreen_screen/LedControlScreenViewBase.cpp:14:1:LedControlScreenViewBase::~LedControlScreenViewBase()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/generated/gui_generated/src/ledcontrolscreen_screen/LedControlScreenViewBase.cpp:19:6:virtual void LedControlScreenViewBase::setupScreen()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/generated/gui_generated/src/ledcontrolscreen_screen/LedControlScreenViewBase.cpp:14:1:LedControlScreenViewBase::~LedControlScreenViewBase()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/generated/gui_generated/src/ledcontrolscreen_screen/LedControlScreenViewBase.cpp:19:6:virtual void LedControlScreenViewBase::setupScreen()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/mvp/View.hpp:36:7:virtual touchgfx::View<LedControlScreenPresenter>::~View()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/generated/gui_generated/src/ledcontrolscreen_screen/LedControlScreenViewBase.cpp:14:1:virtual LedControlScreenViewBase::~LedControlScreenViewBase()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/generated/gui_generated/src/ledcontrolscreen_screen/LedControlScreenViewBase.cpp:14:1:virtual LedControlScreenViewBase::~LedControlScreenViewBase()	1
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/Drawable.hpp:121:18:virtual void touchgfx::Drawable::invalidateContent() const	2
 ../../CM7/../../CM7/Middlewares/ST/touchgfx/framework/include/touchgfx/widgets/Widget.hpp:45:18:virtual void touchgfx::Widget::getLastChild(int16_t, int16_t, touchgfx::Drawable**)	3
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/generated/gui_generated/src/ledcontrolscreen_screen/LedControlScreenViewBase.cpp:7:1:LedControlScreenViewBase::LedControlScreenViewBase()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/generated/gui_generated/src/ledcontrolscreen_screen/LedControlScreenViewBase.cpp:7:1:LedControlScreenViewBase::LedControlScreenViewBase()	1

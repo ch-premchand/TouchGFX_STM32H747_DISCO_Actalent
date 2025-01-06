@@ -15,6 +15,41 @@
         <Translation Language="GB">123</Translation>
       </Text>
     </TextGroup>
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_0OH9" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">UPI Screen</Translation>
+      </Text>
+      <Text Id="__SingleUse_M3HO" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Uart Screen</Translation>
+      </Text>
+      <Text Id="__SingleUse_U6WY" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">EXIT</Translation>
+      </Text>
+      <Text Id="__SingleUse_2PVJ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">OK</Translation>
+      </Text>
+      <Text Id="__SingleUse_UPGJ" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Generate</Translation>
+      </Text>
+      <Text Id="__SingleUse_JCFU" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">please enter ur UPI ID</Translation>
+      </Text>
+      <Text Id="__SingleUse_IELG" Alignment="Left" TypographyId="Display">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_WEF2" Alignment="Center" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_9V4H" Alignment="Center" TypographyId="Display">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_ID1V" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">Amount:</Translation>
+      </Text>
+      <Text Id="__SingleUse_PELB" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">UPI ID</Translation>
+      </Text>
+    </TextGroup>
   </Texts>
   <Typographies>
     <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />

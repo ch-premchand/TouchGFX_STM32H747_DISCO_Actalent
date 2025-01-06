@@ -1,5 +1,5 @@
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:221:1:start_iMCU_row	3
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:249:1:start_pass_coef	2
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:272:1:compress_output	12
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:39:1:jpeg_write_coefficients	4
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:64:1:jpeg_copy_critical_parameters	14
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:221:1:start_iMCU_row	3
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:249:1:start_pass_coef	2
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:272:1:compress_output	12
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:39:1:jpeg_write_coefficients	4
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jctrans.c:64:1:jpeg_copy_critical_parameters	14

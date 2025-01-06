@@ -1,5 +1,5 @@
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:73:1:start_pass_dpost	8
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:126:1:post_process_1pass	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:158:1:post_process_prepass	4
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:202:1:post_process_2pass	3
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:250:1:jinit_d_post_controller	3
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:73:1:start_pass_dpost	8
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:126:1:post_process_1pass	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:158:1:post_process_prepass	4
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:202:1:post_process_2pass	3
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/Middlewares/Third_Party/LibJPEG/source/jdpostct.c:250:1:jinit_d_post_controller	3

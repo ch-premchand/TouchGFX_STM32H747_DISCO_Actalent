@@ -1,5 +1,5 @@
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/welcomescreen_screen/WelcomeScreenPresenter.hpp:28:13:WelcomeScreenPresenter::~WelcomeScreenPresenter()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/welcomescreen_screen/WelcomeScreenPresenter.cpp:10:6:virtual void WelcomeScreenPresenter::activate()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/welcomescreen_screen/WelcomeScreenPresenter.cpp:10:6:virtual void WelcomeScreenPresenter::activate()	1
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/welcomescreen_screen/WelcomeScreenPresenter.hpp:28:13:virtual WelcomeScreenPresenter::~WelcomeScreenPresenter()	1
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/welcomescreen_screen/WelcomeScreenPresenter.hpp:28:13:virtual void* WelcomeScreenPresenter::_ZThn4_N22WelcomeScreenPresenterD1Ev()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/welcomescreen_screen/WelcomeScreenPresenter.cpp:4:1:WelcomeScreenPresenter::WelcomeScreenPresenter(WelcomeScreenView&)	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/welcomescreen_screen/WelcomeScreenPresenter.cpp:4:1:WelcomeScreenPresenter::WelcomeScreenPresenter(WelcomeScreenView&)	1

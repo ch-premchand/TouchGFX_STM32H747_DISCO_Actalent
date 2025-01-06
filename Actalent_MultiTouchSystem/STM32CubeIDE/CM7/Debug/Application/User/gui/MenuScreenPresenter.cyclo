@@ -1,5 +1,5 @@
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/menuscreen_screen/MenuScreenPresenter.hpp:28:13:MenuScreenPresenter::~MenuScreenPresenter()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/menuscreen_screen/MenuScreenPresenter.cpp:10:6:virtual void MenuScreenPresenter::activate()	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/menuscreen_screen/MenuScreenPresenter.cpp:10:6:virtual void MenuScreenPresenter::activate()	1
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/menuscreen_screen/MenuScreenPresenter.hpp:28:13:virtual MenuScreenPresenter::~MenuScreenPresenter()	1
 ../../CM7/../../CM7/TouchGFX/gui/include/gui/menuscreen_screen/MenuScreenPresenter.hpp:28:13:virtual void* MenuScreenPresenter::_ZThn4_N19MenuScreenPresenterD1Ev()	1
-D:/archive/GitProjects/Actalent_MultiTouch/TouchGFX_STM32H747_DISCO_Actalent/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/menuscreen_screen/MenuScreenPresenter.cpp:4:1:MenuScreenPresenter::MenuScreenPresenter(MenuScreenView&)	1
+D:/archive/GitProjects/Actalent_MultiTouch/mini_poc/Actalent_MultiTouchSystem/CM7/TouchGFX/gui/src/menuscreen_screen/MenuScreenPresenter.cpp:4:1:MenuScreenPresenter::MenuScreenPresenter(MenuScreenView&)	1
